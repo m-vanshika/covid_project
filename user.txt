@@ -1,0 +1,22 @@
+
+a a srg 12 56 2 1 1 AWAS_VIKAS
+b b srg 12 23 2 0 0 AWAS_VIKAS
+c c srg 22 15 2 0 0 AWAS_VIKAS
+d d ptp 16 36 2 0 0 AWAS_VIKAS
+e e ptp 0 35 3 0 0 AWAS_VIKAS
+f f ptp 0 46 1 0 0 AWAS_VIKAS
+g g aiims 0 42 1 0 0 AWAS_VIKAS
+h h aiims 0 26 1 0 0 AWAS_VIKAS
+i i aiims 0 12 1 0 0 AWAS_VIKAS
+j j aiims 0 13 1 0 0 AWAS_VIKAS
+k k aiims 0 36 1 0 0 AWAS_VIKAS
+w w srg 22 9 2 0 0 GOVINDPURAM
+t t - 0 56 0 0 0 GEETA_NAGRI
+q q - 0 65 0 0 0 NAI_BASTI
+vanshika vanshika - 0 20 0 0 0 GOVINDPURAM
+van van ptp 0 15 1 0 0 AWAS_VIKAS
+man man ptp 0 85 1 0 0 AWAS_VIKAS
+pan pan ptp 25 56 2 0 0 AWAS_VIKAS
+lan lan ptp 0 52 1 0 0 AWAS_VIKAS
+tam tam budha 0 54 1 0 0 GOVINDPURAM
+ppp ppp budha 0 15 1 0 0 AWAS_VIKAS
