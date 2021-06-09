@@ -1,0 +1,12 @@
+
+srg srg 4 4 0 0 AWAS_VIKAS
+ptp ptp 7 2 1 4 NAI_BASTI
+vtr vtr 1 0 0 1 GOVINDPURAM
+aiims aiims 5 0 0 5 GEETA_NAGRI
+medCO medCO 0 0 0 0 CHASEERI
+1 1 0 0 0 0 OTHER
+bijnorP bijnorP 0 0 0 0 JATAAN
+binaP binaP 0 0 0 0 PANCHVATI
+helloH helloH 0 0 0 0 CIVIL_LINES
+health health 0 0 0 0 OTHER
+budha budha 2 0 0 2 GOVINDPURAM
